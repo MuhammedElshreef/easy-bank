@@ -1225,6 +1225,10 @@ html {
   height: 196px;
 }
 
+.h-\[420px\] {
+  height: 420px;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1565,10 +1569,6 @@ html {
   border-bottom-width: 4px;
 }
 
-.hover\:border-b-2:hover {
-  border-bottom-width: 2px;
-}
-
 .hover\:text-black:hover {
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity));
@@ -1621,6 +1621,10 @@ html {
 
   .lg\:hidden {
     display: none;
+  }
+
+  .lg\:h-\[764px\] {
+    height: 764px;
   }
 
   .lg\:w-1\/2 {
